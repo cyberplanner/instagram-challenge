@@ -1,4 +1,5 @@
 require 'rails_helper'
+<<<<<<< HEAD
 
 feature 'instagram' do
   context 'no posts have been added' do
@@ -11,3 +12,5 @@ feature 'instagram' do
 
 
 end
+=======
+>>>>>>> cleansing_db
